@@ -1,3 +1,0 @@
-mapbox/geometry.hpp [https://github.com/mapbox/geometry.hpp]
-boost (tested on 1.63)
-mapbox/rapidjson [https://github.com/mapbox/rapidjson]
